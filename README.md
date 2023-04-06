@@ -6,7 +6,7 @@ This is a simple terminal app that allows you to ask to ChatGPT for a command yo
 
 To install the app, you can use `pip`:
 
-pip install cgtp-cli
+pip install cgtp_cli
 
 
 ## Usage
