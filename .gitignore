@@ -1,0 +1,5 @@
+/build
+/cgtp_cli.egg-info
+/dist
+/venvpy33
+/config.pkl
